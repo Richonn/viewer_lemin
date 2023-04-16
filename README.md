@@ -8,8 +8,10 @@
 
 ### How it works
 
-  compile using 'make', and enter an input
+  -> compile using <ins>make,
   
-  => $> ./viewer < input.txt
+  -> enter an input such as <ins> input.txt
+  
+  > $> ./viewer < input.txt
 
 You'll get the viewer and the result of the parser made for the lemin
